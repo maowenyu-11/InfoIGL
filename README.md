@@ -1,4 +1,4 @@
->📋  A  README.md for code accompanying our paper EIGRC
+>📋  A  README.md for code accompanying our paper InfoIGL
 
 # InfoIGL: Invariant Graph Learning Driven by Information Theory
 
