@@ -212,7 +212,7 @@ def main(args, trail):
     total_time = time.time() - start_time
 
     print(
-        "mwy: Causal fold:[{}] | Dataset:[{}] | Update Test:[{:.4f}] at epoch [{}] | Total time:{}"
+        "xxx: Causal fold:[{}] | Dataset:[{}] | Update Test:[{:.4f}] at epoch [{}] | Total time:{}"
         .format(trail, args.dataset, results['update_test'],
                 results['update_epoch'],
                 time.strftime('%H:%M:%S', time.gmtime(total_time))))
@@ -231,7 +231,7 @@ def config_and_run(args):
     for trail in range(args.trails):
         test_result = main(args, trail + 1)
         final_test.append(test_result)
-    print("mwy finall: Test result: [{:.2f}±{:.2f}]".format(
+    print("xxx finall: Test result: [{:.2f}±{:.2f}]".format(
         np.mean(final_test) * 100,
         np.std(final_test) * 100))
     print("ALL OOD:{}".format(final_test))
