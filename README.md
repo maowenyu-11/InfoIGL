@@ -2,7 +2,6 @@
 
 # InfoIGL: Invariant Graph Learning Driven by Information Theory
 
-This repository is the official implementation of [InfoIGL: Invariant Graph Learning Driven by Information Theory]. 
 
 
 ## Requirements
