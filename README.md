@@ -1,8 +1,8 @@
 >📋  A  README.md for code accompanying our paper EIGRC
 
-# EIGRC: A Unified Framework to Extract Invariant Graph Representation with Contrastive Learning
+# InfoIGL: Invariant Graph Learning Driven by Information Theory
 
-This repository is the official implementation of [EIGRC: A Unified Framework to Extract Invariant Graph Representation with Contrastive Learning]. 
+This repository is the official implementation of [InfoIGL: Invariant Graph Learning Driven by Information Theory]. 
 
 
 ## Requirements
