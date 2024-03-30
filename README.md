@@ -1,6 +1,6 @@
 >📋  A  README.md for code accompanying our paper InfoIGL
 
-# InfoIGL: Invariant Graph Learning Driven by Information Theory
+# Invariant Graph Learning Meets Information Theory for Out-of-Distribution Generalization
 
 
 
