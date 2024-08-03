@@ -1,12 +1,12 @@
 >📋  A  README.md for code accompanying our paper InfoIGL
 
-# Invariant Graph Learning Meets Information Theory for Out-of-Distribution Generalization
+# Invariant Graph Learning Meets Information Bottleneck for Out-of-Distribution Generalization
 
 
 
 ## Requirements
 
-Main packages: PyTorch, Pytorch Geometric, OGB. To prepare environment:
+Main packages: PyTorch, Pytorch Geometric, OGB. To prepare the environment:
 
 ```
 pytorch==1.10.1
